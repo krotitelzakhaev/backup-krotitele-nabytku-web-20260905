@@ -6,9 +6,6 @@ Before making content, SEO, or structural changes, read:
 
 - `docs/PROJECT_CONTEXT.md`
 - `docs/BRAND.md`
-- `docs/CURRENT_STATE.md`
-- `docs/DECISIONS.md`
-- `docs/HISTORY.md`
 
 ## Important rules
 
@@ -20,5 +17,5 @@ Before making content, SEO, or structural changes, read:
 - Czech customer-facing copy should sound natural, restrained, and human.
 - In social posts and emails use a short hyphen `-`, not an em dash.
 - Avoid generic AI-style phrases and banned brand phrases listed in `docs/BRAND.md`.
-- Do not publish private operational data, customer names, pending deals, internal cash-flow figures, or unpublished pricing logic in this public repository.
-- If current operational context is needed and is not in the repo, ask the user rather than guessing.
+- This is a public repository. Do not add customer data, pending deals, internal financials, pricing logic, market-scoring rules, or other private operating context here.
+- If current internal business context is required, obtain it from the user's private sources rather than guessing or storing it in this repository.
